@@ -1,0 +1,4 @@
+#!/bin/bash
+
+`sudo uvccapture -G100 -B100 -x1280 -y720 -v -d/dev/video1`
+mv snap.jpg /tmp/matlab_net_req.jpg

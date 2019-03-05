@@ -3,6 +3,7 @@
 #include <fstream>
 #include <sys/stat.h>
 #include <ctime>
+#include <unistd.h>
 
 #include "ros/ros.h"
 #include "room_identifier/PlaceName.h"

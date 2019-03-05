@@ -1,0 +1,5 @@
+#!/bin/bash
+
+#sudo rm -rf /tmp/matlab_net_req.jpg
+sudo mv /tmp/matlab_net_req.jpg ~/net.jpg
+sudo rm -rf /tmp/matlab_net_ret
